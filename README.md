@@ -1,2 +1,2 @@
-<strong>Bulletin Board</strong> 
+<strong>Bulletin Board</strong> <br> 
 A simple React application. 
