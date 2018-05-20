@@ -15,6 +15,10 @@ class Board extends Component {
            {
              id: 34,
              note: "Email John"
+           },
+           {
+             id: 35,
+             note: "Text Louise"
            }
         ]
       }
